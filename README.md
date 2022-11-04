@@ -1,2 +1,2 @@
-# operating-system
+# Operating System
 Material of operating system course @unime
