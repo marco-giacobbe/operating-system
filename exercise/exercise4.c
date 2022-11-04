@@ -1,3 +1,7 @@
+/*
+Scrivere un programma che crei un processo zombie
+*/
+
 #include <stdio.h>
 #include <sys/types.h> 
 #include <unistd.h> 

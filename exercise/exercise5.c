@@ -1,5 +1,5 @@
 /*
-Scrivere un programma che crei un processo zombie
+Fare in modo che un processo figlio diventi figlio del processo init
 */
 
 #include <stdio.h>
